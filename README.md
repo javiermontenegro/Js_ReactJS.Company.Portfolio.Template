@@ -27,6 +27,7 @@ $ npm start
 * [Node.js](https://nodejs.org/) - Cross-platform JavaScript runtime environment.
 * [YarnPkg](https://yarnpkg.com/) - Javascript Package Manager.
 * [Gulp.js](https://gulpjs.com/) - Toolkit to automate & enhance workflow.
+* [TailwindCSS](https://tailwindcss.com/) - Utility-first CSS framework packed with classes.
 * [ReactJS](https://react.dev/) - Library for web and native user interfaces.
 
 ## Author
